@@ -15,7 +15,7 @@ The HTML content is structured with the following semantic elements:
   - **Skills**: A list of technical abilities
   - **Portfolio (Catfolio)**: Project thumbnails in a table layout
   - **Contact**: A simple contact form
-- `<footer>`: Closing footer with a copyright
+- `<footer>`: Closing footer with credits
 
 ---
 
@@ -31,11 +31,28 @@ The HTML content is structured with the following semantic elements:
 
 ## 📸 Image References
 
-- Profile Picture: ![Profile](https://i.imgur.com/mATtpfi.png)
-- Project Thumbnails:
-  - Purrfect Landing Page: ![Landing](https://i.imgur.com/eLykdqE.png)
-  - Kitty Commerce: ![Commerce](https://i.imgur.com/Fb2eueT.png)
-  - CatChat Social: ![Chat](https://i.imgur.com/t1PwXIx.png)
+### 👤 Profile Picture
+
+<img src="https://i.imgur.com/mATtpfi.png" alt="Profile Picture" width="150"/>
+
+### 📁 Portfolio Thumbnails
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/eLykdqE.png" alt="Purrfect Landing Page" width="150"/><br>
+      <b>Purrfect Landing Page</b>
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/Fb2eueT.png" alt="Kitty Commerce" width="150"/><br>
+      <b>Kitty Commerce</b>
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/t1PwXIx.png" alt="CatChat Social" width="150"/><br>
+      <b>CatChat Social</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,9 +62,11 @@ The HTML content is structured with the following semantic elements:
 2. Open the file in your browser
 3. Customize the content (images, text, links) as needed
 
+> 💡 Tip: You can easily import this code into [CodePen](https://codepen.io/) or any other online editor to test and edit live.
 
 ---
 
 ## 🐾 Credits
 
-Made by **CodeSpace Cat** as part of a creative HTML learning exercise. Feel free to fork, remix, and use as a template for your own online portfolio!
+Made by **CodeSpace Cat** as part of a creative HTML learning exercise.  
+Feel free to fork, remix, and use as a template for your own online portfolio!
